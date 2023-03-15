@@ -6,4 +6,8 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser --email admin@example.com --username admin
 python manage.py runserver
-django
+exact =
+gt =
+lt =
+gte =
+lte =
